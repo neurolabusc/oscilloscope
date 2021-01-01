@@ -1,0 +1,16 @@
+Brain Vision Data Exchange Header File Version 1.0
+; Data created by Matlab script ScopeMath_Arduino
+[Common Infos]
+DataFile=/Users/rorden/Desktop/stimsync/Matlab/130323_210536.eeg
+DataFormat=BINARY
+DataOrientation=MULTIPLEXED
+DataType=TIMEDOMAIN
+NumberOfChannels=3
+SamplingInterval=8333.333333
+DataPoints=216
+[Binary Infos]
+BinaryFormat=IEEE_FLOAT_32
+[Channel Infos]
+Ch1=1,,1,µV
+Ch2=2,,1,µV
+Ch3=3,,1,µV

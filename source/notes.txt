@@ -1,0 +1,12 @@
+Changes to board
+ 1.) FET for polarity protection
+ 2.) battery light - turns off when battery voltage drops below 5.5v
+ 3.) confirm whether .1 cap used instead of 0.01
+ 4.) Decide whether to use 330 Ohm network resistor. My sense is to exclude this
+ 5.) Change 100k potentiometer to ?
+ 6.) Add square wave generator output
+
+ 1.) You mentioned a .1 cap was used instead of a 0.01. My own board appears correct, and the cap is labelled 0.01 on the board (the 0.1 caps are for decoupling only).
+ 2.) My design uses a 330 ohm network resistor for the digital inputs (far right side on image). In reality this is not needed - the input lines are pulled up to 3.3v with an internal 20k resistor, and so a mechanical switch that shorts the input with ground will work fine, as will any electrical input. The only reason I put the 330 ohm resistor in original was so I could also use this as an output (e.g. attach LEDs) for diagnostic software. My sense is to remove this component. Do you agree?
+ 3.) Any other changes you suggest?
+ 4.) I still like the idea of a voltage protection diode. The 9-volt battery style adapters are easy to source, but it is easy to accidentally touch the battery pins with reverse polarity. I take you point about a 6v battery not providing much 

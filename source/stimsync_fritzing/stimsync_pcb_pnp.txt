@@ -1,0 +1,80 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=stimsync_pcb
+*Date=19:54:53
+*CreatedBy=Fritzing 0.7.12b.02.13.6882
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;20.3721;-13.0122;0;Bottom;TXT1
+2;;;7.65884;-26.9782;0;Bottom;TXT1
+3;;5 mm [THT];49.0377;-49.9894;-90;Bottom;DetectB
+4;;THT;10.3482;-33.4694;0;Bottom;J1
+5;;;7.7294;-34.5982;0;Bottom;TXT1
+6;;THT;17.9682;-44.8994;-90;Bottom;RF (bottom)
+7;;;14.1581;-49.9795;0;Bottom;Via9
+8;;;2.63197;-21.7558;90;Bottom;TXT1
+9;;;7.78715;-44.7777;0;Bottom;TXT1
+10;;;17.8321;-13.0122;0;Bottom;TXT1
+11;;;35.6849;-2.07279;0;Bottom;TXT3
+12;;4Ucon 08780 [THT];35.7992;-4.84967;-90;Bottom;AnalogA
+13;;THT;12.8987;-4.26956;-90;Bottom;r140
+14;;;32.1757;-6.93972;0;Bottom;TXT3
+15;;;12.7521;-13.0122;0;Bottom;TXT1
+16;;;24.8989;-12.8783;0;Bottom;TXT2
+17;;;7.65884;-24.5088;0;Bottom;TXT1
+18;;;2.1571;-7.38323;0;Bottom;TXT1
+19;;;15.4281;-37.2795;0;Bottom;Via5
+20;;THT;25.5882;-33.4694;0;Bottom;Teensy3
+21;;;15.2215;-13.0122;0;Bottom;TXT1
+22;;;62.1653;-9.49072;0;Bottom;TXT3
+23;;;7.95489;-42.2182;0;Bottom;TXT1
+24;;;2.73877;-51.2595;0;Bottom;Hole2
+25;;;5.21649;-12.9416;0;Bottom;TXT1
+26;;;49.4465;-2.29406;0;Bottom;TXT3
+27;;;64.757;-44.6274;0;Bottom;TXT3
+28;;;21.8252;-47.3452;0;Bottom;TXT3
+29;;;7.92769;-47.5722;0;Bottom;TXT1
+30;;;68.7787;-34.7495;0;Bottom;Hole4
+31;;;67.5604;-44.5568;0;Bottom;TXT3
+32;;;31.6042;-46.8045;0;Bottom;TXT3
+33;;THT;64.9687;-1.72956;0;Bottom;pot10K
+34;;;64.9687;-42.3696;-90;Bottom;ThresholdB
+35;220;THT;40.8282;-32.1994;0;Bottom;r220
+36;220;THT;35.7482;-24.5794;90;Bottom;r220
+37;;5 mm [THT];49.0377;-4.2697;-90;Bottom;DetectA
+38;;;2.73877;-16.9695;0;Bottom;Hole1
+39;;;62.0947;-44.6979;0;Bottom;TXT3
+40;;;7.79995;-31.9171;0;Bottom;TXT1
+41;;;64.6865;-9.49072;0;Bottom;TXT3
+42;;;49.5876;-51.4007;0;Bottom;TXT3
+43;;;64.9687;-11.8896;90;Bottom;ThresholdA
+44;;4Ucon 08780 [THT];35.7077;-49.399;90;Bottom;AnalogB
+45;;;13.9512;-47.3748;0;Bottom;TXT3
+46;;THT;4.00868;-33.4796;0;Bottom;Buttons
+47;;;39.8185;-7.01168;0;Bottom;TXT3
+48;;;48.5104;-5.61017;0;Bottom;TXT3
+49;;;16.6041;-47.3452;0;Bottom;TXT3
+50;;;35.7295;-52.0961;0;Bottom;TXT3
+51;;THT;64.9687;-52.5296;0;Bottom;pot10k
+52;;;19.3087;-47.3689;0;Bottom;TXT3
+53;;;67.4898;-9.42017;0;Bottom;TXT3
+54;;;7.6721;-12.9416;0;Bottom;TXT1
+55;;;0.394676;-9.94877;0;Bottom;TXT2
+56;;THT;14.1687;-9.34956;-90;Bottom;J2
+57;;;48.6703;-48.2963;0;Bottom;TXT3
+58;;;68.7787;-19.5095;0;Bottom;Hole3
+59;;;7.65884;-29.4476;0;Bottom;TXT1
+60;;;39.417;-47.2278;0;Bottom;TXT3
+61;;;7.79995;-37.0676;0;Bottom;TXT1
+62;;;7.94106;-39.6782;0;Bottom;TXT1
+63;;;17.9681;-39.8195;0;Bottom;Via3
+64;;;10.2121;-12.9416;0;Bottom;TXT1
+65;;THT;5.27868;-46.1796;180;Bottom;J3
